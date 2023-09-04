@@ -1,0 +1,22 @@
+{
+  "patterns": [
+    {
+      "id": "abc123",
+      "name": "Heather Blazer",
+      "designer": "Friday Pattern Company",
+      "type": [],
+      "price": 1.87,
+      "acquired": "01/01/2019",
+      "link": "https://fridaypatterncompany.com/products/heather-blazer-pdf-pattern"
+    },
+    {
+      "id": "abc123",
+      "name": "Grayson Blazer",
+      "designer": "Friday Pattern Company",
+      "type": [],
+      "price": 1.87,
+      "acquired": "01/01/2019",
+      "link": "https://fridaypatterncompany.com/products/heather-blazer-pdf-pattern"
+    }
+  ]
+}
